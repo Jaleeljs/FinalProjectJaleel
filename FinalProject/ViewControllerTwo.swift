@@ -28,7 +28,7 @@ class ViewControllerTwo: UIViewController {
         centerMapOnLocation(location: initialLocation)
         
         //create a Restaurant object and set all the arguments of the three parameters
-        let restaurantOne = Restaurant(title: "AGU Ramen", type: "Japanese", coordinate: CLLocationCoordinate2D(latitude: 21.337696, longitude: -158.08109))
+        let restaurantOne = Restaurant(title: "AGU Ramen", type: "Japanese", coordinate: CLLocationCoordinate2D(latitude: 21.337696, longitude: -158.081090))
         mapView.addAnnotation(restaurantOne)
         
         let restaurantTwo = Restaurant(title: "Burger King", type: "Local", coordinate: CLLocationCoordinate2D(latitude: 21.337635, longitude: -158.078857))
@@ -40,7 +40,7 @@ class ViewControllerTwo: UIViewController {
         let restaurantFour = Restaurant(title: "Pizza Hut", type: "Pizzaria", coordinate: CLLocationCoordinate2D(latitude: 21.338628, longitude: -158.078601))
         mapView.addAnnotation(restaurantFour)
         
-        let restaurantFive = Restaurant(title: "Taco Bell", type: "Fast Food", coordinate: CLLocationCoordinate2D(latitude: 21.338783, longitude: -158.078469))
+        let restaurantFive = Restaurant(title: "Taco Bell", type: "Fast Food", coordinate: CLLocationCoordinate2D(latitude: 21.338767, longitude: -158.078471))
         mapView.addAnnotation(restaurantFive)
         
         let restaurantSix = Restaurant(title: "L&L Hawaiian Barbecue", type: "Local", coordinate: CLLocationCoordinate2D(latitude: 21.339533, longitude: -158.078858))
