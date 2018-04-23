@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>restaurantTitles</key>
+	<array>
+		<string>AGU Ramen</string>
+		<string>Burger King</string>
+		<string>KFC</string>
+		<string>Pizza Hut</string>
+		<string>Taco Bell</string>
+		<string>L&amp;L Hawaiian Barbecue</string>
+	</array>
+	<key>restaurantTexts</key>
+	<array>
+		<string>A Ramen bistro that serves Ramen made japanese style with great sides. Mostly know for their famous &quot;Kotteri&quot; Ramen which features a dark broth and garlic chips</string>
+		<string>Famous Burger Joint known for selling bthe Famous Whopper</string>
+		<string>Greatly made country fried chicken eatery</string>
+		<string>Famous Pizzaria Known Country wide for their famous New Yorkers and Wing Street chicken wings</string>
+		<string>Taco Bell serves Mexican-inspired food And there are some that even sell food from Pizza Hut!</string>
+		<string>L&amp;L Hawaiian Barbecue is a Hawaiian-themed franchise restaurant chain based in Honolulu, Hawaii Which revolves around Hawaii&apos;s Famous &quot;Plate Lunch&quot;</string>
+	</array>
+	<key>restaurantImages</key>
+	<array>
+		<string>AGU Ramen</string>
+		<string>Burger King</string>
+		<string>KFC</string>
+		<string>Pizza Hut</string>
+		<string>Taco Bell</string>
+		<string>L&amp;L Hawaiian Barbecue</string>
+	</array>
+</dict>
+</plist>
