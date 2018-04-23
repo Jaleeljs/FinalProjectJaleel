@@ -22,7 +22,7 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
                 
-        self.title = "Foods"
+        self.title = "Places To Eat"
         
         self.tableView.dataSource = self
         
